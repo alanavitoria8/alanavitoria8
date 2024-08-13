@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**alanavitoria8/alanavitoria8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é alana 
 
-Here are some ideas to get you started:
+ - estou estudando na [alura](https://ww.alura.com.br)
+ - estou ,e desenvolvendo na linguagem 
+ - utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ### voce entrar em contato comigo 📫
+
+   alana.passarini@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/-euC8SYHEm0AAAAi/frozen-lizard.gif)
